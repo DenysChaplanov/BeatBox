@@ -3,7 +3,7 @@ BeatBoxApp is an Android application for playing sound effects. It was created a
 
 
 ## ✨Features
-- Playback of sound effects with adjustable speed (seekbar)
+- Playback of sound effects with adjustable speed by using seekbar
 - Simple user interface with a grid of sound buttons.
 - Visual feedback on sound button press with animation.
 - Efficient sound loading and management using SoundPool.
